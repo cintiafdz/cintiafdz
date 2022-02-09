@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 -   🌱  I’m currently learning Python, Javascript and React.
 -   😄 Pronouns: she/her
 -   ⚡️  Fun fact: I'm a huge fan of Harry Potter
--    
 ## Github Stats
 
 
