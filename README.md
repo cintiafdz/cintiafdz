@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### I'm a Senior Multimedia Editor and soon to be Fullstack Developer.
+
+-   🏢  I'm currently working as a Content Creator
+-   🌱  I’m currently learning Python, Javascript and React.
+-   😄 Pronouns: she/her
+-   ⚡️  Fun fact: I'm a huge fan of Harry Potter
+-    
 ## Github Stats
 
 
